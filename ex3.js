@@ -28,4 +28,3 @@ const geraNum = () => { return Math.floor(num1 = Math.random() * 100);
 }
 
 fizzBuzz(geraNum())
-console.log("Obrigado por executar ! ");
